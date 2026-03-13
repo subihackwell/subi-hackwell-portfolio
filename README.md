@@ -4,7 +4,7 @@
 
 **Portfolio site:** [subihackwell.vercel.app](https://subihackwell.vercel.app)
 **DevForum:** [devforum.roblox.com](https://devforum.roblox.com)
-**Discord:** subihackwell
+**Discord:** 9x07
 
 ---
 
