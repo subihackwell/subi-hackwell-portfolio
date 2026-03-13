@@ -42,4 +42,4 @@ Security    →  Anti-Cheat, Rate Limiting, Server Authority
 
 I'm available for freelance projects — single systems, full game scripting, bug fixes, and code reviews.
 
-**Contact:** Fill out the form at [my portfolio site](https://subihackwell.vercel.app/#contact) or DM on Discord: `subihackwell`
+**Contact:** Fill out the form at [my portfolio site](https://subihackwell.vercel.app/#contact) or DM on Discord: `9x07`
